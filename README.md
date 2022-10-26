@@ -1,4 +1,4 @@
-# hashicat
+# hashicat azure POV
 Hashicat: A terraform built application for use in Hashicorp Proof of Values.
 
 Includes the "Meow World" website.
